@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: gray;
+}
+.card {
+    display: flex;
+    /* background-color: rgb(174, 179, 177); */
+    margin-bottom: 20px;
+    border-color: gray !important;
+    border-radius: 0;
+ 
+}
+#container {
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+h1 {
+    text-align: center;
+    background-color: whitesmoke;
+font-weight: bold;
+}
